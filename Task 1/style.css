@@ -1,0 +1,24 @@
+.list-group a:hover {
+  background-color: rgb(94, 128, 202);
+  color: aliceblue;
+  transition: 0.3s;
+}
+
+.dropdown-menu a:hover {
+  background-color: rgb(94, 128, 202);
+  color: aliceblue;
+  transition: 0.3s;
+}
+
+.buttonOver a:hover {
+  background-color: rgb(11, 53, 143);
+  color: aliceblue;
+  transition: 0.3s;
+}
+
+#navbar img {
+  width: 80px; /*To reduce the logo size*/
+  /*the img in the navbar id*/
+  margin-left: 95px; /*make a distance from the left side*/
+  border-radius: 50px;
+}
